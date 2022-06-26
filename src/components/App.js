@@ -1,6 +1,7 @@
+import React,{ useState } from "react";
 import "./styles.css";
 import { signUpFormValidation } from "./validation";
-import React,{ useState } from "react";
+
 
 
 
