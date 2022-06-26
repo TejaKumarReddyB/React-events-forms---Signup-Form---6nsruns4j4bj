@@ -54,7 +54,7 @@ const App = () => {
       setPhoneNumber(e.target.value);
       obj.phoneNumber = e.target.value;
     }
-    handleClick(e);
+    //handleClick(e);
   };
   return (
     <>
